@@ -1,6 +1,0 @@
-listPrice,rent,livingArea,rooms,published,constructionYear,objectType,soldDate,soldPrice,soldPriceSource,floor,additionalArea,apartmentNumber,location.address.streetAddress,location.position.latitude,location.position.longitude,location.position.isApproximate,location.region.municipalityName,location.region.countyName,location.distance.ocean,source.url,price_per_sqm
-1595000,1464.0,24.0,1.0,2016-01-07 14:51:06,1935.0,Lägenhet,2016-01-21,2500000,bid,3.0,,1305.0,Ekhagsvägen 8,59.37178,18.05527,,Stockholm,Stockholms län,161,http://www.notar.se/,104166.66666666667
-1890000,1464.0,24.0,1.0,2016-06-11 08:55:51,1935.0,Lägenhet,2016-06-21,2450000,bid,3.0,,1305.0,Ekhagsvägen 8,59.37178,18.05527,,Stockholm,Stockholms län,161,http://www.husmanhagberg.se/,102083.33333333333
-1795000,1374.0,23.0,1.0,2016-04-15 19:10:49,1935.0,Lägenhet,2016-04-28,2300000,bid,1.0,,1105.0,Ekhagsvägen 10,59.3719665,18.0554221,True,Stockholm,Stockholms län,135,http://www.notar.se/,100000.0
-1750000,1144.0,25.0,1.0,2017-05-18 16:20:57,1936.0,Lägenhet,2017-06-01,2210000,bid,0.0,0.0,,Torphagsvägen 4,59.37148,18.05388,,Stockholm,Stockholms län,218,http://www.husmanhagberg.se/,88400.0
-1895000,1522.0,26.9,1.0,2016-04-01 22:56:37,1968.0,Lägenhet,2016-04-19,2300000,bid,2.0,,1203.0,Docentbacken 1B,59.3705635,18.0585287,True,Stockholm,Stockholms län,298,http://www.notar.se/,85501.85873605948
